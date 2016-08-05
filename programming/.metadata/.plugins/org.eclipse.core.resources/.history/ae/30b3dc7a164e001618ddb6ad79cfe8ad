@@ -1,0 +1,17 @@
+'''
+Created on Jul 19, 2016
+
+@author: Lee J
+'''
+
+class namescraper(self):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+        

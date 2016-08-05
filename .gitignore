@@ -1,0 +1,12 @@
+###
+##	Git ignore list
+###
+
+#anaconda python support files that don't matter to git at all
+Anaconda/* 
+Jupyter*
+
+#minor files that were for learning and not for viewing
+test_files/*
+
+#files too big to track

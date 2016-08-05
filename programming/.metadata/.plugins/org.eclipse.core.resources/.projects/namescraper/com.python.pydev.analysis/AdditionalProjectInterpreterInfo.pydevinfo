@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Data Science\programming\.metadata\.plugins\org.eclipse.core.resources\.projects\namescraper\com.python.pydev.analysis\v2_indexcache
+main|1468991644421270000|D:\Data Science\programming\namescraper\src\main.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=main
+-- END DICTIONARY
+-- START TREE 1
+9
+alp|1|alphabet!11@
+big|1|big_list!11@
+cat|1|category_links!11@
+get|3|get_names_and_info!10@get_letter_link!10@get_category_links!10@
+hac|1|hack_alphabet_into_link!10@
+ite|1|iterthing!11@
+let|2|letter_links!11@letter_link!11@
+pri|1|primary_addendum!11@
+url|1|url!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
